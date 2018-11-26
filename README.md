@@ -20,7 +20,7 @@ class Juicebox(Player):
     typically of grape flavour.  Timmy was dared by his friends to enter this spooky house.  They sent him 
     with a flashlight, thank goodness.  However, to Timmy's great dismay, he flips the switch as the door slams 
     behind him and the flashlight hardly flickers before burning out.  Timmy feels panic rise up in his throat 
-    but he swallows it with the conviction that this will impress other kids enough to want to be friends with him."
+    but he swallows it with the conviction that this will impress other kids enough that they might want to be friends with him."
     self.max_hp = 50
     self.attack_power = 20
     self.defensive_power = 30
