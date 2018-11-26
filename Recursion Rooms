@@ -52,3 +52,5 @@ while not game_over:
     print_location_description()
     player_location = ask_user_which_exit(places[player_location]['exits'])
     print_location_description()
+
+#will create more rooms and a map-ish thing
